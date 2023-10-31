@@ -1,0 +1,47 @@
+"order": [
+    {
+        "id": 1,
+        "status": 0,
+        "id_reserva": 1
+        "detail": [
+            {
+                "product": {
+                    "product_id": 456,
+                    "name": "Nombre del Producto",
+                    "price": "10.99"
+                },
+                "amount": 3
+            },
+            {
+                "product": {
+                    "product_id": 789,
+                    "name": "Otro Producto",
+                    "price": "5.99"
+                },
+                "amount": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "status": 0,
+        "detail": [
+            {
+                "product": {
+                    "product_id": 56,
+                    "name": "Nombre del Producto",
+                    "price": "10.99"
+                },
+                "amount": 2
+            },
+            {
+                "product": {
+                    "product_id": 89,
+                    "name": "Otro Producto",
+                    "price": "5.99"
+                },
+                "amount": 4
+            }
+        ]
+    }
+]
